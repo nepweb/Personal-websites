@@ -1,0 +1,55 @@
+@font-face{
+	font-family: DroidSerif;
+	src:url(../fonts/DroidSerif.ttf);
+}
+
+
+@font-face{
+	font-family: Kaushan;
+	src:url(../fonts/KaushanScript-Regular.ttf);
+}
+@font-face{
+	font-family: Robotor;
+	src:url(../fonts/Roboto-Regular.ttf);
+}
+@font-face{
+	font-family: Robotob;
+	src:url(../fonts/Roboto-Bold.ttf);
+}
+@font-face{
+	font-family: Robotobl;
+	src:url(../fonts/Roboto-Black.ttf);
+}
+@font-face{
+	font-family: Robotol;
+	src:url(../fonts/Roboto-Light.ttf);
+}
+
+
+
+.container .row p{
+	color: grey;
+	border: 1px solid black;
+	font:20px Kaushan;
+
+}
+h4{
+	font:50px;
+}
+.footer{
+	height:10%;
+	width: 100%;
+	background-color:grey;
+}
+i{
+	border-radius: 100% solid red;
+	color:blue;
+	padding: 50px 0;
+
+}
+img:hover{
+	color: black;
+	
+    
+
+}
